@@ -1,15 +1,30 @@
-# covid19
-This repository contains data, code, and results for COVID-19 research project.
+# 40_corona.csv
+The original similarity matrix of the viruses.
 
-## 3168_desc.txt
-The description of viral sequences
+## 3168_desc.csv
+The original csv file with viruses and their information.
 
-## 40_corona.csv
-Intersection matrix constructed using genome dictionaries of strings of length 40 for 3168 Coronaviruses
+## clustered_with_sequences.csv
+Modified csv file with viruses' sequences and corresponding clusters.
+Threshold value is set to 20.
 
-## ComputeSimilarityMatrix_Coronaviridae.py
-Python code for computing intersection matrix
+## clustered_with_sequences_noTh.csv
+Modified csv file without any threshold to values in the file.
 
-## Coronaviridae_3303.7z (two-level compression to make it fit the limit of 25 Mb)
-Archive of Coronavirus genomes
-It needs to be unarchive using 7z (www.7-zip.org) and then unzip.
+## country_codes.csv
+File with country names and their acronyms.
+
+## original_with_sequences.csv
+Original file with sequence numbers to each viruses.
+
+## heatmap_hier.png
+Heatmap of the reordered matrix based on the leaves resulted from hierarchical clustering.
+
+## hierarchical_clustering.png
+Dendrogram of the result from the hierarchical clustering.
+
+## MostCommonHostInClusters.txt
+Most common hosts in each clusters.
+
+## Hierarchical Clustering.ipynb
+All the codes that produce these files above.
