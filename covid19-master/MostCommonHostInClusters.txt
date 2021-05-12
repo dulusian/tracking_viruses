@@ -1,0 +1,166 @@
+ClusterID -  1
+[('Homo sapiens', 257), ('Camelus dromedarius', 182), ('Camelus', 76), ('Camelus bactrianus', 1), ('Lama glama', 1)]
+ClusterID -  2
+[('Homo sapiens', 436)]
+ClusterID -  3
+[('Sus scrofa', 530), ('Sus scrofa domesticus', 2)]
+ClusterID -  4
+[('Mus musculus', 41), ('Homo sapiens', 11), ('Paradoxurus hermaphroditus', 6), ('Viverridae', 3), ('Paguma larvata', 1), ('Chlorocebus aethiops', 1)]
+ClusterID -  5
+[('Homo sapiens', 138), ('Pan troglodytes verus', 4)]
+ClusterID -  6
+[('Sus scrofa', 100)]
+ClusterID -  7
+[('Gallus gallus', 162), ('Gallus', 12)]
+ClusterID -  8
+[('Sus scrofa', 47), ('Rhinolophus', 4)]
+ClusterID -  9
+[('Bos taurus', 22), ('Camelus dromedarius', 6), ('Rusa unicolor', 3), ('Kobus ellipsiprymnus', 3), ('Giraffa camelopardalis', 3), ('Camelus bactrianus', 3), ('Homo sapiens', 2), ('Canis lupus familiaris', 2), ('Bubalus bubalis', 2), ('Bovidae', 1), ('Vicugna pacos', 1), ('Odocoileus virginianus', 1), ('Hydropotes inermis', 1), ('Bos grunniens', 1), ('Camelus', 1)]
+ClusterID -  10
+[('Gallus gallus', 97), ('Gallus', 3)]
+ClusterID -  11
+[('Homo sapiens', 55)]
+ClusterID -  12
+[('Rhinolophus sinicus', 18), ('Rhinolophus affinis', 4), ('Rhinolophus ferrumequinum', 3), ('Chiroptera', 2), ('Rhinolophus', 1), ('Aselliscus stoliczkanus', 1)]
+ClusterID -  13
+[('Camelus', 27), ('Camelus dromedarius', 6), ('Vicugna pacos', 1)]
+ClusterID -  14
+[('Homo sapiens', 18)]
+ClusterID -  15
+[('Sus scrofa', 15)]
+ClusterID -  16
+[('Homo sapiens', 22)]
+ClusterID -  17
+[('Mus musculus', 12)]
+ClusterID -  18
+[('Gallus gallus', 11), ('Gallus', 1)]
+ClusterID -  19
+[('Scotophilus kuhlii', 27)]
+ClusterID -  20
+[('Sus scrofa scrofa', 10), ('Sus scrofa', 2)]
+ClusterID -  21
+[('Felis catus', 12)]
+ClusterID -  22
+[]
+ClusterID -  23
+[('Gallus gallus', 48), ('Meleagris gallopavo', 7), ('Anatidae', 2), ('Phasianinae', 2), ('Gallus', 2)]
+ClusterID -  24
+[('Felis catus', 6), ('Canis lupus familiaris', 1)]
+ClusterID -  25
+[('Rattus argentiventer', 8), ('Rattus norvegicus', 4), ('Mus musculus', 4)]
+ClusterID -  26
+[('Scotophilus kuhlii', 12)]
+ClusterID -  27
+[('Tursiops truncatus', 4), ('Delphinapterus leucas', 2)]
+ClusterID -  28
+[('Felis catus', 31), ('Feliformia', 10), ('Canis lupus familiaris', 10), ('Sus scrofa', 4)]
+ClusterID -  29
+[('Chiroptera', 5), ('Tylonycteris pachypus', 2), ('Rhinolophus affinis', 1)]
+ClusterID -  30
+[('Rhinolophus ferrumequinum', 7), ('Manis javanica', 4), ('Pholidota', 1), ('Rhinolophus macrotis', 1), ('Chaerephon plicatus', 1), ('Rhinolophus affinis', 1), ('Rhinolophus pusillus', 1), ('Rhinolophus sinicus', 1)]
+ClusterID -  31
+[('Chiroptera', 9)]
+ClusterID -  32
+[('Oryctolagus cuniculus', 5)]
+ClusterID -  33
+[('Chiroptera', 5), ('Pipistrellus abramus', 2)]
+ClusterID -  34
+[('Rattus', 4), ('Mus musculus', 3)]
+ClusterID -  35
+[('Gallus gallus', 13)]
+ClusterID -  36
+[('Chiroptera', 3)]
+ClusterID -  37
+[('Miniopterus fuliginosus', 2), ('Miniopterus schreibersii', 1)]
+ClusterID -  38
+[('Erinaceus europaeus', 3)]
+ClusterID -  39
+[('Miniopterus fuliginosus', 1), ('Miniopterus pusillus', 1)]
+ClusterID -  40
+[('Hypsugo pulveratus', 2)]
+ClusterID -  41
+[('Passeridae', 6), ('Sus scrofa', 2)]
+ClusterID -  42
+[('Myotis lucifugus', 3)]
+ClusterID -  43
+[('Hipposideros pratti', 2)]
+ClusterID -  44
+[('Rhinolophus blasii', 2), ('Rhinolophus sinicus', 2)]
+ClusterID -  45
+[('Pycnonotus jocosus', 2), ('Pycnonotus sinensis', 1)]
+ClusterID -  46
+[('Chiroptera', 3)]
+ClusterID -  47
+[('Rhinolophus ferrumequinum', 2), ('Rhinolophus affinis', 1)]
+ClusterID -  48
+[('Pipistrellus', 2)]
+ClusterID -  49
+[('Rousettus leschenaultii', 2)]
+ClusterID -  50
+[('Erinaceus amurensis', 2)]
+ClusterID -  51
+[('Chiroptera', 2)]
+ClusterID -  52
+[('Rhinolophus sinicus', 2)]
+ClusterID -  53
+[('Neovison vison', 2)]
+ClusterID -  54
+[('Rattus norvegicus', 2)]
+ClusterID -  55
+[('Rhinolophus ferrumequinum', 2), ('Myotis sp.', 1)]
+ClusterID -  56
+[('Mustela putorius', 2)]
+ClusterID -  57
+[('Triaenops afer', 2), ('Miniopterus fuliginosus', 1)]
+ClusterID -  58
+[('Miniopterus fuliginosus', 2)]
+ClusterID -  59
+[('Myotis ricketti', 2)]
+ClusterID -  60
+[('Nyctalus velutinus', 2)]
+ClusterID -  61
+[('Apodemus chevrieri', 2)]
+ClusterID -  62
+[('Muscicapidae', 2), ('Lonchura striata', 2), ('Turdus hortulorum', 2)]
+ClusterID -  63
+[('Mareca', 2)]
+ClusterID -  64
+[('Gallinula chloropus', 2)]
+ClusterID -  65
+[('Ardeidae', 2)]
+ClusterID -  66
+[('Zosteropidae', 2)]
+ClusterID -  67
+[('Neoromicia capensis', 2), ('Hypsugo savii', 1), ('Pipistrellus kuhlii', 1)]
+ClusterID -  68
+[('Cynopterus sphinx', 1)]
+ClusterID -  69
+[('Rattus argentiventer', 2)]
+ClusterID -  70
+[('Triaenops afer', 2)]
+ClusterID -  71
+[('Pipistrellus kuhlii', 2)]
+ClusterID -  72
+[('Hipposideros', 1), ('Hipposideros vittatus', 1), ('Rousettus aegyptiacus', 1)]
+ClusterID -  73
+[('Myotis siligorensis', 1), ('Myotis davidii', 1)]
+ClusterID -  74
+[]
+ClusterID -  75
+[('Rhinolophus affinis', 1), ('Cynopterus brachyotis', 1)]
+ClusterID -  76
+[('Mustela putorius furo', 2), ('Neovison vison', 1), ('Mustela lutreola', 1)]
+ClusterID -  77
+[('Erinaceus europaeus', 1), ('Myotis daubentonii', 1), ('Vespertilio sinensis', 1)]
+ClusterID -  78
+[('Rhinolophus', 1), ('Hipposideros pomona', 1)]
+ClusterID -  79
+[('Chiroptera', 1), ('Rousettus sp.', 1)]
+ClusterID -  80
+[]
+ClusterID -  81
+[('Branta canadensis', 1)]
+ClusterID -  82
+[('Hipposideros larvatus', 1), ('Myotis brandtii', 1), ('Pipistrellus kuhlii', 1)]
+ClusterID -  83
+[('Tylonycteris robustula', 1)]
